@@ -1,2 +1,2 @@
 # cowsay
-Bash &amp; C School Projet
+Discover the wonderful world of cowsay.
